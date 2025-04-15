@@ -13,3 +13,4 @@ The first step of the project is designing the blade. Each of the group members 
 <p align="center">
   <img src="./assets/1.jpg" alt="Lift to Drag Ratio vs. Angle of Attack" width="600"/>
 </p>
+### 2. Optimizing the Blade
