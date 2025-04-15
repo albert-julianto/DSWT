@@ -10,4 +10,6 @@ The goal of this project is to design the Horizontal Axis Wind Turbine VENSYS 17
 ## 📅 Project Timeline & Workflow
 ### 1. Designing the Blade
 The first step of the project is designing the blade. Each of the group members is to find suitible airfoils in order to build the most suited blade which could work under the conditions and dimensions given by the manufacturer of the wind turbine. After analyzing their Lift to Drag ratio and Angle of Attacks, the chosen airfoils are NACA 4838 for the root, AH 94-W-301 and NACA 3428 for the mid-span, NACA 3220, NACA 3721and NACA 2418 for the tip.
-![Description of the image](./assets/1.jpg)
+<p align="center">
+  <img src="./assets/1.jpg" alt="Lift to Drag Ratio vs. Angle of Attack" width="600"/>
+</p>
